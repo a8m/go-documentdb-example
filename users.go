@@ -2,7 +2,7 @@ package main
 
 import (
 	. "fmt"
-	"github.com/a8m/documentdb"
+	"github.com/a8m/documentdb-go"
 )
 
 // User document
